@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LibertyMusasa
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning VB.Net, HTML, CSS and Javascript
-- 💞️ I’m looking to collaborate on entry level projects for amateurs so I can gain experience by doing.
+- 🌱 I’m currently working on VB.Net, HTML, CSS, PHP and Javascript
+- 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me on my email, musasaliberty@gmail.com
 
 <!---
